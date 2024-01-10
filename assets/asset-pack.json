@@ -1,0 +1,33 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/alertaMsn.png",
+                "type": "image",
+                "key": "alertaMsn"
+            },
+            {
+                "url": "assets/images/ApagraBtn.png",
+                "type": "image",
+                "key": "ApagraBtn"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "assets/images/FranjaCrema.png",
+                "type": "image",
+                "key": "FranjaCrema"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
